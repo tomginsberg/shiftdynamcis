@@ -1,2 +1,2 @@
-# Shift Dynamcis
-Using learning dynamics to understand distribution shift
+![](logo.svg)
+## Using learning dynamics to understand distribution shift
